@@ -1,0 +1,206 @@
+[
+  {
+    "name": "PixelOne Smartphone",
+    "price": 14999,
+    "category": "Mobile",
+    "features": "64MP camera, 5000mAh battery, 6.5 inch display, gaming optimized"
+  },
+  {
+    "name": "NovaX Pro Max Phone",
+    "price": 12999,
+    "category": "Mobile",
+    "features": "48MP AI camera, 6000mAh battery, AMOLED display"
+  },
+  {
+    "name": "Galaxy M15",
+    "price": 16999,
+    "category": "Mobile",
+    "features": "50MP camera, 6000mAh battery, 5G support"
+  },
+  {
+    "name": "iPhone SE 2022",
+    "price": 39999,
+    "category": "Mobile",
+    "features": "A15 Bionic chip, compact design, Retina display"
+  },
+  {
+    "name": "Mi PowerBuds Wireless",
+    "price": 2499,
+    "category": "Audio",
+    "features": "Deep bass, 12hr battery, touch controls"
+  },
+  {
+    "name": "AeroBuds Wireless Earphones",
+    "price": 1999,
+    "category": "Audio",
+    "features": "10hr battery, noise isolation, Bluetooth 5.2"
+  },
+  {
+    "name": "SoundBlast Studio Headphones",
+    "price": 2499,
+    "category": "Audio",
+    "features": "Deep bass, 20hr playtime, foldable design"
+  },
+  {
+    "name": "Sony WH-XB700",
+    "price": 8999,
+    "category": "Audio",
+    "features": "Extra bass, 30hr battery, Bluetooth"
+  },
+  {
+    "name": "VisionPro Smart TV 43 inch",
+    "price": 26999,
+    "category": "TV",
+    "features": "Full HD, Dolby Audio, Android OS"
+  },
+  {
+    "name": "CineMax Ultra 55 inch",
+    "price": 38999,
+    "category": "TV",
+    "features": "4K HDR, 30W speakers, Android 11"
+  },
+  {
+    "name": "Samsung Crystal 4K 50 inch",
+    "price": 42999,
+    "category": "TV",
+    "features": "4K UHD, HDR10+, Smart TV"
+  },
+  {
+    "name": "LG NanoCell 55 inch",
+    "price": 49999,
+    "category": "TV",
+    "features": "WebOS TV, AI upscaling, Dolby Vision"
+  },
+  {
+    "name": "FlexBook Laptop 14 inch",
+    "price": 38999,
+    "category": "Laptop",
+    "features": "8GB RAM, 256GB SSD, Intel i5"
+  },
+  {
+    "name": "TechMaster Laptop 15.6 inch",
+    "price": 45999,
+    "category": "Laptop",
+    "features": "16GB RAM, 512GB SSD, Ryzen 5"
+  },
+  {
+    "name": "Acer Aspire Slim",
+    "price": 32999,
+    "category": "Laptop",
+    "features": "8GB RAM, 512GB SSD, Intel i3"
+  },
+  {
+    "name": "Asus Vivobook Gaming",
+    "price": 59999,
+    "category": "Laptop",
+    "features": "16GB RAM, GTX 1650, Ryzen 7"
+  },
+  {
+    "name": "EliteWatch Smartwatch",
+    "price": 3499,
+    "category": "Wearable",
+    "features": "Heart rate monitor, sleep tracking, IP67"
+  },
+  {
+    "name": "FitPro Active Watch",
+    "price": 4999,
+    "category": "Wearable",
+    "features": "SpO2, Bluetooth calling, AMOLED screen"
+  },
+  {
+    "name": "Noise ColorFit Ultra 2",
+    "price": 3499,
+    "category": "Wearable",
+    "features": "AMOLED display, health tracking"
+  },
+  {
+    "name": "Galaxy Fit 2",
+    "price": 3999,
+    "category": "Wearable",
+    "features": "Heart health, step tracking"
+  },
+  {
+    "name": "FreshCool Mini Refrigerator",
+    "price": 11999,
+    "category": "Home Appliance",
+    "features": "Single door, 190L capacity, energy efficient"
+  },
+  {
+    "name": "AirMaster Inverter AC",
+    "price": 33999,
+    "category": "Home Appliance",
+    "features": "1.5 ton, 5-star rating, silent cooling"
+  },
+  {
+    "name": "BreezeFast Room Heater",
+    "price": 2999,
+    "category": "Home Appliance",
+    "features": "Instant heating, portable"
+  },
+  {
+    "name": "SteelPro Mixer Grinder",
+    "price": 2499,
+    "category": "Home Appliance",
+    "features": "3 jars, silent motor"
+  },
+  {
+    "name": "CaptureX DSLR Camera",
+    "price": 45999,
+    "category": "Camera",
+    "features": "24MP sensor, 4K video, WiFi connectivity"
+  },
+  {
+    "name": "SnapLite Compact Camera",
+    "price": 15999,
+    "category": "Camera",
+    "features": "12MP, lightweight, beginner-friendly"
+  },
+  {
+    "name": "Canon EOS 3000D",
+    "price": 32999,
+    "category": "Camera",
+    "features": "18MP, WiFi, 1080p video"
+  },
+  {
+    "name": "Nikon Coolpix P950",
+    "price": 59999,
+    "category": "Camera",
+    "features": "83x zoom, 4K video"
+  },
+  {
+    "name": "GameBox One Console",
+    "price": 29999,
+    "category": "Gaming",
+    "features": "4K gaming, 1TB storage"
+  },
+  {
+    "name": "PlayMaster GamePad Pro",
+    "price": 1999,
+    "category": "Gaming",
+    "features": "Wireless controller, vibration feedback"
+  },
+  {
+    "name": "SwiftCharge Type-C Cable",
+    "price": 399,
+    "category": "Accessories",
+    "features": "Fast charging, durable build"
+  },
+  {
+    "name": "PowerBrick 20,000mAh Powerbank",
+    "price": 2499,
+    "category": "Accessories",
+    "features": "Fast charging, dual USB output"
+  },
+  {
+    "name": "TabLite 10-inch Tablet",
+    "price": 14999,
+    "category": "Tablet",
+    "features": "4GB RAM, 64GB storage, HD display"
+  },
+  {
+    "name": "EduTab Student Tablet",
+    "price": 9999,
+    "category": "Tablet",
+    "features": "Learning apps, parental control"
+  }
+]
