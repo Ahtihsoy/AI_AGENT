@@ -113,12 +113,6 @@ You can add more products easily.
 - Improve UI with product cards
 - Add user personalization
 
-## Optional Video Demo
-You may include a short 2–3 minute screen recording showing:
-- Entering a query
-- Applying filters
-- Viewing recommendations
-- How the system works
 
 
 
