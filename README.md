@@ -1,5 +1,8 @@
 # Product Recommendation AI Agent
 
+## Live Demo Link
+https://ahtihsoy-ai-agent-app-8q14s4.streamlit.app/
+
 ## Overview
 The Product Recommendation AI Agent provides intelligent product suggestions based on user preferences such as category, price, and features.  
 It uses a curated JSON product dataset, applies filtering, and generates recommendations using the Groq LLaMA 3.1 model.  
